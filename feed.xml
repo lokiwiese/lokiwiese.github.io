@@ -3,12 +3,44 @@
     <title>Loki&#x27;s Stories</title>
     <link href="https://lokiwiese.github.io/feed.xml" rel="self" />
     <link href="https://lokiwiese.github.io" />
-    <updated>2026-04-30T19:24:54+02:00</updated>
+    <updated>2026-04-30T19:35:13+02:00</updated>
     <author>
         <name>Loki Wiese</name>
     </author>
     <id>https://lokiwiese.github.io</id>
 
+    <entry>
+        <title>Small Boat On Thames</title>
+        <author>
+            <name>Loki Wiese</name>
+        </author>
+        <link href="https://lokiwiese.github.io/small-boat-on-thames.html"/>
+        <id>https://lokiwiese.github.io/small-boat-on-thames.html</id>
+
+        <updated>2026-04-30T19:35:13+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/8/25188931823_5c9bce264f_k.jpg" alt="" width="2048" height="1536" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Iron Wheel On Farm</title>
+        <author>
+            <name>Loki Wiese</name>
+        </author>
+        <link href="https://lokiwiese.github.io/iron-wheel-on-farm.html"/>
+        <id>https://lokiwiese.github.io/iron-wheel-on-farm.html</id>
+
+        <updated>2026-04-30T19:34:06+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/7/25789846406_ae0341382c_k.jpg" alt="" width="2048" height="1536" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Low Tide On The Stour</title>
         <author>
