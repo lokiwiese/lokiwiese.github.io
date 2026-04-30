@@ -3,12 +3,44 @@
     <title>Loki&#x27;s Stories</title>
     <link href="https://lokiwiese.github.io/feed.xml" rel="self" />
     <link href="https://lokiwiese.github.io" />
-    <updated>2026-04-30T10:17:56+02:00</updated>
+    <updated>2026-04-30T19:24:54+02:00</updated>
     <author>
         <name>Loki Wiese</name>
     </author>
     <id>https://lokiwiese.github.io</id>
 
+    <entry>
+        <title>Low Tide On The Stour</title>
+        <author>
+            <name>Loki Wiese</name>
+        </author>
+        <link href="https://lokiwiese.github.io/low-tide-on-the-stour.html"/>
+        <id>https://lokiwiese.github.io/low-tide-on-the-stour.html</id>
+
+        <updated>2026-04-30T19:24:54+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/6/25514741590_65a50ea7b1_k.jpg" alt="" width="2048" height="1536" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Constable - The Mill</title>
+        <author>
+            <name>Loki Wiese</name>
+        </author>
+        <link href="https://lokiwiese.github.io/constable-the-mill.html"/>
+        <id>https://lokiwiese.github.io/constable-the-mill.html</id>
+
+        <updated>2026-04-30T19:23:14+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/5/25514680340_994fdddf8a_k.jpg" alt="" width="1536" height="2048" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Loki&#x27;s Stories</title>
         <author>
