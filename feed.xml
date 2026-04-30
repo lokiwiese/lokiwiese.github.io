@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Loki&#x27;s Stories</title>
+    <link href="https://lokiwiese.github.io/feed.xml" rel="self" />
+    <link href="https://lokiwiese.github.io" />
+    <updated>2026-04-29T16:17:17+02:00</updated>
+    <author>
+        <name>Loki Wiese</name>
+    </author>
+    <id>https://lokiwiese.github.io</id>
+
+    <entry>
+        <title>Typhoon</title>
+        <author>
+            <name>Loki Wiese</name>
+        </author>
+        <link href="https://lokiwiese.github.io/typhoon-2.html"/>
+        <id>https://lokiwiese.github.io/typhoon-2.html</id>
+
+        <updated>2026-04-29T16:17:17+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    The Steamer Nan-Shan Struck By A Typhoon From the book: "Typhon is a classic story of the sea. The long story describes the exploits of Captain MacWhirr in dealing with a tropical typhoon under the command of the steamer Nan-Shan. The novel is set in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://lokiwiese.github.io/media/posts/2/gallery/Gemini_Generated_Image_1au9e41au9e41au9.png" data-size="1408x768"><img loading="lazy" src="https://lokiwiese.github.io/media/posts/2/gallery/Gemini_Generated_Image_1au9e41au9e41au9-thumbnail.png" alt="Nan-Shan" width="720" height="393"></a>
+<figcaption>The Steamer Nan-Shan Struck By A Typhoon</figcaption>
+</figure>
+</div></div>
+<p>From the book: "Typhon is a classic story of the sea. The long story describes the exploits of Captain MacWhirr in dealing with a tropical typhoon under the command of the steamer Nan-Shan. The novel is set in a ship between the nineteenth and twentieth centuries. MacWhirr, a stolid man, shy and simple, ignored by his family, exploited by his wife and mocked by his crew, refuses to change course to avoid the arrival of a typhoon: however, his iron determination in facing him redeem him in the eyes of his subjected."</p>
+<p>In fact, this is one of the greatest storm stories ever written. Joseph Conrad at his very best.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lokiwiese.github.io/sitemap.xml
