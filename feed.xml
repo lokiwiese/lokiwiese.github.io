@@ -3,25 +3,41 @@
     <title>Loki&#x27;s Stories</title>
     <link href="https://lokiwiese.github.io/feed.xml" rel="self" />
     <link href="https://lokiwiese.github.io" />
-    <updated>2026-04-30T19:35:13+02:00</updated>
+    <updated>2026-05-01T07:56:05+02:00</updated>
     <author>
         <name>Loki Wiese</name>
     </author>
     <id>https://lokiwiese.github.io</id>
 
     <entry>
+        <title>Cemetery</title>
+        <author>
+            <name>Loki Wiese</name>
+        </author>
+        <link href="https://lokiwiese.github.io/cemetery/"/>
+        <id>https://lokiwiese.github.io/cemetery/</id>
+
+        <updated>2026-04-30T19:45:23+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/9/25720299301_a9d25f3bf6_k.jpg" alt="" width="2048" height="1536" sizes="(max-width: 48em) 100vw, 768px" srcset="https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-xs.jpg 300w ,https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-sm.jpg 480w ,https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-md.jpg 768w ,https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-lg.jpg 1024w ,https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-xl.jpg 1360w ,https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Small Boat On Thames</title>
         <author>
             <name>Loki Wiese</name>
         </author>
-        <link href="https://lokiwiese.github.io/small-boat-on-thames.html"/>
-        <id>https://lokiwiese.github.io/small-boat-on-thames.html</id>
+        <link href="https://lokiwiese.github.io/small-boat-on-thames/"/>
+        <id>https://lokiwiese.github.io/small-boat-on-thames/</id>
 
         <updated>2026-04-30T19:35:13+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/8/25188931823_5c9bce264f_k.jpg" alt="" width="2048" height="1536" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-2xl.jpg 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/8/25188931823_5c9bce264f_k.jpg" alt="" width="2048" height="1536" sizes="(max-width: 48em) 100vw, 768px" srcset="https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-xs.jpg 300w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-sm.jpg 480w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-md.jpg 768w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-lg.jpg 1024w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-xl.jpg 1360w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -30,14 +46,14 @@
         <author>
             <name>Loki Wiese</name>
         </author>
-        <link href="https://lokiwiese.github.io/iron-wheel-on-farm.html"/>
-        <id>https://lokiwiese.github.io/iron-wheel-on-farm.html</id>
+        <link href="https://lokiwiese.github.io/iron-wheel-on-farm/"/>
+        <id>https://lokiwiese.github.io/iron-wheel-on-farm/</id>
 
         <updated>2026-04-30T19:34:06+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/7/25789846406_ae0341382c_k.jpg" alt="" width="2048" height="1536" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-2xl.jpg 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/7/25789846406_ae0341382c_k.jpg" alt="" width="2048" height="1536" sizes="(max-width: 48em) 100vw, 768px" srcset="https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-xs.jpg 300w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-sm.jpg 480w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-md.jpg 768w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-lg.jpg 1024w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-xl.jpg 1360w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -46,14 +62,14 @@
         <author>
             <name>Loki Wiese</name>
         </author>
-        <link href="https://lokiwiese.github.io/low-tide-on-the-stour.html"/>
-        <id>https://lokiwiese.github.io/low-tide-on-the-stour.html</id>
+        <link href="https://lokiwiese.github.io/low-tide-on-the-stour/"/>
+        <id>https://lokiwiese.github.io/low-tide-on-the-stour/</id>
 
         <updated>2026-04-30T19:24:54+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/6/25514741590_65a50ea7b1_k.jpg" alt="" width="2048" height="1536" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-2xl.jpg 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/6/25514741590_65a50ea7b1_k.jpg" alt="" width="2048" height="1536" sizes="(max-width: 48em) 100vw, 768px" srcset="https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-xs.jpg 300w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-sm.jpg 480w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-md.jpg 768w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-lg.jpg 1024w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-xl.jpg 1360w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -62,14 +78,14 @@
         <author>
             <name>Loki Wiese</name>
         </author>
-        <link href="https://lokiwiese.github.io/constable-the-mill.html"/>
-        <id>https://lokiwiese.github.io/constable-the-mill.html</id>
+        <link href="https://lokiwiese.github.io/constable-the-mill/"/>
+        <id>https://lokiwiese.github.io/constable-the-mill/</id>
 
         <updated>2026-04-30T19:23:14+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/5/25514680340_994fdddf8a_k.jpg" alt="" width="1536" height="2048" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-2xl.jpg 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/5/25514680340_994fdddf8a_k.jpg" alt="" width="1536" height="2048" sizes="(max-width: 48em) 100vw, 768px" srcset="https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-xs.jpg 300w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-sm.jpg 480w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-md.jpg 768w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-lg.jpg 1024w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-xl.jpg 1360w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
@@ -78,18 +94,18 @@
         <author>
             <name>Loki Wiese</name>
         </author>
-        <link href="https://lokiwiese.github.io/lokis-stories.html"/>
-        <id>https://lokiwiese.github.io/lokis-stories.html</id>
+        <link href="https://lokiwiese.github.io/lokis-stories/"/>
+        <id>https://lokiwiese.github.io/lokis-stories/</id>
 
         <updated>2026-04-30T10:17:56+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    In Saldanha Bay lies Holon. A 20 foot sloop bought by my daughter. In perfact seaworthy shape. Small enough to single hand. That's my ONLY goal. Besides making my house comfy and filling my plot with fruit trees. And building a blog and writing sea&hellip;
+                    In Saldanha Bay lies Holon. A 20 foot sloop bought by my daughter. In perfact seaworthy shape. Small enough to single hand. That's&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/4/Gemini_Generated_Image_cl2buqcl2buqcl2b.png" alt="" width="1408" height="768" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-xs.png 640w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-sm.png 768w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-md.png 1024w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-lg.png 1366w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-xl.png 1600w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-2xl.png 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://lokiwiese.github.io/media/posts/4/Gemini_Generated_Image_cl2buqcl2buqcl2b.png" alt="" width="1408" height="768" sizes="(max-width: 48em) 100vw, 768px" srcset="https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-xs.png 300w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-sm.png 480w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-md.png 768w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-lg.png 1024w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-xl.png 1360w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-2xl.png 1600w"></figure>
 <p>In Saldanha Bay lies Holon. A 20 foot sloop bought by my daughter. In perfact seaworthy shape. Small enough to single hand. That's my ONLY goal. Besides making my house comfy and filling my plot with fruit trees. And building a blog and writing sea stories. And publishing books about the sea and other things. As I said, my ONLY goal. To sail her and make her happy. A lonely boat is a sad boat.</p>
             ]]>
         </content>
@@ -99,18 +115,18 @@
         <author>
             <name>Loki Wiese</name>
         </author>
-        <link href="https://lokiwiese.github.io/first-post.html"/>
-        <id>https://lokiwiese.github.io/first-post.html</id>
+        <link href="https://lokiwiese.github.io/first-post/"/>
+        <id>https://lokiwiese.github.io/first-post/</id>
 
         <updated>2026-04-30T10:10:24+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    So here goes 😂. Note: Please read this with your tongue firmly in your cheek. And then, please hear my confession. 1) Ask me if I believe in the things that normal people believe in, like religion, war, money, a job, a car, a family,&hellip;
+                    So here goes 😂.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>So here goes 😂. Note: Please read this with your tongue firmly in your cheek. And then, please hear my confession. 1) Ask me if I believe in the things that normal people believe in, like religion, war, money, a job, a car, a family, a house, an education, morality, law, anything conceived by the human monkey on his way up in the world? And the answer is no, or rather, perhaps. I can stand back and analyze these things, without being part of it. I have lent my ear to the cleverest people I could find, in a lifetime of searching, and still my mind scorns most things. Living in South Africa has supported this view. Is this bad? No. I harm no-one, I am happy and joyful, and I even find love. The female of the species is quite willing to procreate. Even at 75. They want babies like me, perhaps with less smelly armpits and with both eyes that open fully. But that gorgeous rebellious brain? That ironic sense of humour? That lean healthy body? They want babies like that. This has given me a feeling of empowerment. Like I'm the new Jesus. I can save the world. If only I wanted to. For me the saved world would have very few humans in it. Me and my offspring. Under my guidance and control. Because the average human means well, but needs guidance. From me, and others like me. Now do you see? 😂 I meant to write a simple letter of apology, and explanation, and it gets out of hand. Why? There's an evil genius lurking in my brain. And he takes over when I'm bored. So beware.</p>
+                <p>So here goes 😂.</p>
             ]]>
         </content>
     </entry>
@@ -119,13 +135,13 @@
         <author>
             <name>Loki Wiese</name>
         </author>
-        <link href="https://lokiwiese.github.io/typhoon-2.html"/>
-        <id>https://lokiwiese.github.io/typhoon-2.html</id>
+        <link href="https://lokiwiese.github.io/typhoon-2/"/>
+        <id>https://lokiwiese.github.io/typhoon-2/</id>
 
         <updated>2026-04-29T16:17:17+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    The Steamer Nan-Shan Struck By A Typhoon From the book: "Typhon is a classic story of the sea. The long story describes the exploits of Captain MacWhirr in dealing with a tropical typhoon under the command of the steamer Nan-Shan. The novel is set in&hellip;
+                    The Steamer Nan-Shan Struck By A Typhoon From the book: "Typhon is a classic story of the sea. The long story describes the&hellip;
                 ]]>
             </summary>
         <content type="html">

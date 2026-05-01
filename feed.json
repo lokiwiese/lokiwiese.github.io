@@ -10,10 +10,23 @@
     },
     "items": [
         {
-            "id": "https://lokiwiese.github.io/small-boat-on-thames.html",
-            "url": "https://lokiwiese.github.io/small-boat-on-thames.html",
+            "id": "https://lokiwiese.github.io/cemetery/",
+            "url": "https://lokiwiese.github.io/cemetery/",
+            "title": "Cemetery",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lokiwiese.github.io/media/posts/9/25720299301_a9d25f3bf6_k.jpg\" alt=\"\" width=\"2048\" height=\"1536\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-xs.jpg 300w ,https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-sm.jpg 480w ,https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-md.jpg 768w ,https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-lg.jpg 1024w ,https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-xl.jpg 1360w ,https://lokiwiese.github.io/media/posts/9/responsive/25720299301_a9d25f3bf6_k-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Loki Wiese"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-30T19:45:23+02:00",
+            "date_modified": "2026-04-30T19:45:23+02:00"
+        },
+        {
+            "id": "https://lokiwiese.github.io/small-boat-on-thames/",
+            "url": "https://lokiwiese.github.io/small-boat-on-thames/",
             "title": "Small Boat On Thames",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lokiwiese.github.io/media/posts/8/25188931823_5c9bce264f_k.jpg\" alt=\"\" width=\"2048\" height=\"1536\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-2xl.jpg 1920w\"></figure>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lokiwiese.github.io/media/posts/8/25188931823_5c9bce264f_k.jpg\" alt=\"\" width=\"2048\" height=\"1536\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-xs.jpg 300w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-sm.jpg 480w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-md.jpg 768w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-lg.jpg 1024w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-xl.jpg 1360w ,https://lokiwiese.github.io/media/posts/8/responsive/25188931823_5c9bce264f_k-2xl.jpg 1600w\"></figure>",
             "author": {
                 "name": "Loki Wiese"
             },
@@ -23,10 +36,10 @@
             "date_modified": "2026-04-30T19:35:13+02:00"
         },
         {
-            "id": "https://lokiwiese.github.io/iron-wheel-on-farm.html",
-            "url": "https://lokiwiese.github.io/iron-wheel-on-farm.html",
+            "id": "https://lokiwiese.github.io/iron-wheel-on-farm/",
+            "url": "https://lokiwiese.github.io/iron-wheel-on-farm/",
             "title": "Iron Wheel On Farm",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lokiwiese.github.io/media/posts/7/25789846406_ae0341382c_k.jpg\" alt=\"\" width=\"2048\" height=\"1536\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-2xl.jpg 1920w\"></figure>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lokiwiese.github.io/media/posts/7/25789846406_ae0341382c_k.jpg\" alt=\"\" width=\"2048\" height=\"1536\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-xs.jpg 300w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-sm.jpg 480w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-md.jpg 768w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-lg.jpg 1024w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-xl.jpg 1360w ,https://lokiwiese.github.io/media/posts/7/responsive/25789846406_ae0341382c_k-2xl.jpg 1600w\"></figure>",
             "author": {
                 "name": "Loki Wiese"
             },
@@ -36,10 +49,10 @@
             "date_modified": "2026-04-30T19:34:06+02:00"
         },
         {
-            "id": "https://lokiwiese.github.io/low-tide-on-the-stour.html",
-            "url": "https://lokiwiese.github.io/low-tide-on-the-stour.html",
+            "id": "https://lokiwiese.github.io/low-tide-on-the-stour/",
+            "url": "https://lokiwiese.github.io/low-tide-on-the-stour/",
             "title": "Low Tide On The Stour",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lokiwiese.github.io/media/posts/6/25514741590_65a50ea7b1_k.jpg\" alt=\"\" width=\"2048\" height=\"1536\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-2xl.jpg 1920w\"></figure>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lokiwiese.github.io/media/posts/6/25514741590_65a50ea7b1_k.jpg\" alt=\"\" width=\"2048\" height=\"1536\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-xs.jpg 300w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-sm.jpg 480w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-md.jpg 768w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-lg.jpg 1024w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-xl.jpg 1360w ,https://lokiwiese.github.io/media/posts/6/responsive/25514741590_65a50ea7b1_k-2xl.jpg 1600w\"></figure>",
             "author": {
                 "name": "Loki Wiese"
             },
@@ -49,10 +62,10 @@
             "date_modified": "2026-04-30T19:24:54+02:00"
         },
         {
-            "id": "https://lokiwiese.github.io/constable-the-mill.html",
-            "url": "https://lokiwiese.github.io/constable-the-mill.html",
+            "id": "https://lokiwiese.github.io/constable-the-mill/",
+            "url": "https://lokiwiese.github.io/constable-the-mill/",
             "title": "Constable - The Mill",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lokiwiese.github.io/media/posts/5/25514680340_994fdddf8a_k.jpg\" alt=\"\" width=\"1536\" height=\"2048\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-xs.jpg 640w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-sm.jpg 768w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-md.jpg 1024w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-lg.jpg 1366w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-xl.jpg 1600w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-2xl.jpg 1920w\"></figure>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lokiwiese.github.io/media/posts/5/25514680340_994fdddf8a_k.jpg\" alt=\"\" width=\"1536\" height=\"2048\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-xs.jpg 300w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-sm.jpg 480w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-md.jpg 768w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-lg.jpg 1024w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-xl.jpg 1360w ,https://lokiwiese.github.io/media/posts/5/responsive/25514680340_994fdddf8a_k-2xl.jpg 1600w\"></figure>",
             "author": {
                 "name": "Loki Wiese"
             },
@@ -62,11 +75,11 @@
             "date_modified": "2026-04-30T19:23:14+02:00"
         },
         {
-            "id": "https://lokiwiese.github.io/lokis-stories.html",
-            "url": "https://lokiwiese.github.io/lokis-stories.html",
+            "id": "https://lokiwiese.github.io/lokis-stories/",
+            "url": "https://lokiwiese.github.io/lokis-stories/",
             "title": "Loki&#x27;s Stories",
-            "summary": "In Saldanha Bay lies Holon. A 20 foot sloop bought by my daughter. In perfact seaworthy shape. Small enough to single hand. That's my ONLY goal. Besides making my house comfy and filling my plot with fruit trees. And building a blog and writing sea&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lokiwiese.github.io/media/posts/4/Gemini_Generated_Image_cl2buqcl2buqcl2b.png\" alt=\"\" width=\"1408\" height=\"768\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-xs.png 640w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-sm.png 768w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-md.png 1024w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-lg.png 1366w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-xl.png 1600w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-2xl.png 1920w\"></figure>\n<p>In Saldanha Bay lies Holon. A 20 foot sloop bought by my daughter. In perfact seaworthy shape. Small enough to single hand. That's my ONLY goal. Besides making my house comfy and filling my plot with fruit trees. And building a blog and writing sea stories. And publishing books about the sea and other things. As I said, my ONLY goal. To sail her and make her happy. A lonely boat is a sad boat.</p>",
+            "summary": "In Saldanha Bay lies Holon. A 20 foot sloop bought by my daughter. In perfact seaworthy shape. Small enough to single hand. That's&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lokiwiese.github.io/media/posts/4/Gemini_Generated_Image_cl2buqcl2buqcl2b.png\" alt=\"\" width=\"1408\" height=\"768\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-xs.png 300w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-sm.png 480w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-md.png 768w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-lg.png 1024w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-xl.png 1360w ,https://lokiwiese.github.io/media/posts/4/responsive/Gemini_Generated_Image_cl2buqcl2buqcl2b-2xl.png 1600w\"></figure>\n<p>In Saldanha Bay lies Holon. A 20 foot sloop bought by my daughter. In perfact seaworthy shape. Small enough to single hand. That's my ONLY goal. Besides making my house comfy and filling my plot with fruit trees. And building a blog and writing sea stories. And publishing books about the sea and other things. As I said, my ONLY goal. To sail her and make her happy. A lonely boat is a sad boat.</p>",
             "author": {
                 "name": "Loki Wiese"
             },
@@ -76,24 +89,24 @@
             "date_modified": "2026-04-30T10:17:56+02:00"
         },
         {
-            "id": "https://lokiwiese.github.io/first-post.html",
-            "url": "https://lokiwiese.github.io/first-post.html",
+            "id": "https://lokiwiese.github.io/first-post/",
+            "url": "https://lokiwiese.github.io/first-post/",
             "title": "First Post",
-            "summary": "So here goes 😂. Note: Please read this with your tongue firmly in your cheek. And then, please hear my confession. 1) Ask me if I believe in the things that normal people believe in, like religion, war, money, a job, a car, a family,&hellip;",
-            "content_html": "<p>So here goes 😂. Note: Please read this with your tongue firmly in your cheek. And then, please hear my confession. 1) Ask me if I believe in the things that normal people believe in, like religion, war, money, a job, a car, a family, a house, an education, morality, law, anything conceived by the human monkey on his way up in the world? And the answer is no, or rather, perhaps. I can stand back and analyze these things, without being part of it. I have lent my ear to the cleverest people I could find, in a lifetime of searching, and still my mind scorns most things. Living in South Africa has supported this view. Is this bad? No. I harm no-one, I am happy and joyful, and I even find love. The female of the species is quite willing to procreate. Even at 75. They want babies like me, perhaps with less smelly armpits and with both eyes that open fully. But that gorgeous rebellious brain? That ironic sense of humour? That lean healthy body? They want babies like that. This has given me a feeling of empowerment. Like I'm the new Jesus. I can save the world. If only I wanted to. For me the saved world would have very few humans in it. Me and my offspring. Under my guidance and control. Because the average human means well, but needs guidance. From me, and others like me. Now do you see? 😂 I meant to write a simple letter of apology, and explanation, and it gets out of hand. Why? There's an evil genius lurking in my brain. And he takes over when I'm bored. So beware.</p>",
+            "summary": "So here goes 😂.",
+            "content_html": "<p>So here goes 😂.</p>",
             "author": {
                 "name": "Loki Wiese"
             },
             "tags": [
             ],
             "date_published": "2026-04-30T10:10:24+02:00",
-            "date_modified": "2026-04-30T10:10:24+02:00"
+            "date_modified": "2026-05-01T07:56:05+02:00"
         },
         {
-            "id": "https://lokiwiese.github.io/typhoon-2.html",
-            "url": "https://lokiwiese.github.io/typhoon-2.html",
+            "id": "https://lokiwiese.github.io/typhoon-2/",
+            "url": "https://lokiwiese.github.io/typhoon-2/",
             "title": "Typhoon",
-            "summary": "The Steamer Nan-Shan Struck By A Typhoon From the book: \"Typhon is a classic story of the sea. The long story describes the exploits of Captain MacWhirr in dealing with a tropical typhoon under the command of the steamer Nan-Shan. The novel is set in&hellip;",
+            "summary": "The Steamer Nan-Shan Struck By A Typhoon From the book: \"Typhon is a classic story of the sea. The long story describes the&hellip;",
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://lokiwiese.github.io/media/posts/2/gallery/Gemini_Generated_Image_1au9e41au9e41au9.png\" data-size=\"1408x768\"><img loading=\"lazy\" src=\"https://lokiwiese.github.io/media/posts/2/gallery/Gemini_Generated_Image_1au9e41au9e41au9-thumbnail.png\" alt=\"Nan-Shan\" width=\"720\" height=\"393\"></a>\n<figcaption>The Steamer Nan-Shan Struck By A Typhoon</figcaption>\n</figure>\n</div></div>\n<p>From the book: \"Typhon is a classic story of the sea. The long story describes the exploits of Captain MacWhirr in dealing with a tropical typhoon under the command of the steamer Nan-Shan. The novel is set in a ship between the nineteenth and twentieth centuries. MacWhirr, a stolid man, shy and simple, ignored by his family, exploited by his wife and mocked by his crew, refuses to change course to avoid the arrival of a typhoon: however, his iron determination in facing him redeem him in the eyes of his subjected.\"</p>\n<p>In fact, this is one of the greatest storm stories ever written. Joseph Conrad at his very best.</p>",
             "author": {
                 "name": "Loki Wiese"
